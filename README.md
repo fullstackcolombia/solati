@@ -1,5 +1,5 @@
 # Solati Test FullStackColombia
 
-## Demo
+## Demo (Codeigniter 4)
 
 https://sol.fullstackcolombia.com
